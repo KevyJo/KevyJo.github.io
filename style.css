@@ -10,6 +10,10 @@ body {
   text-transform: uppercase;
 }
 
+h1{
+  text-align: center;
+}
+
 h4{
   border-bottom: 1px solid #63666a;
 }
