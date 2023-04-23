@@ -4,9 +4,12 @@ body {
   font-family: Gotham light, helvetica, sans-serif;
   margin: 10% 20%;
 } 
-  .exp-header{
-    text-align: center;
+
+.exp-header{
     text-transform: uppercase;
-    border-top: 1px solid #63666a;
     border-bottom: 1px solid #63666a;  
+}
+
+h6{
+  font-style: italic;
 }
