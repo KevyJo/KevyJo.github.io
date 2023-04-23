@@ -6,8 +6,12 @@ body {
 } 
 
 .exp-header{
-    text-transform: uppercase;
-    border-bottom: 1px solid #63666a;  
+  text-align: center;  
+  text-transform: uppercase;
+}
+
+h4{
+  border-bottom: 1px solid #63666a;
 }
 
 h6{
